@@ -1,0 +1,3 @@
+Model : https://drive.google.com/file/d/1yunbIiiwwPTnsyJ3r-QfJe0jqelSkTzK/view?usp=sharing
+Streamlit : https://gc7deployment-63vlydzmuwd4whsxkklfna.streamlit.app
+Dataset : https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors
